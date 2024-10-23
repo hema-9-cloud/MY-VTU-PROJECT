@@ -1,5 +1,5 @@
 .navbar-style{
-background-color: rgba(255, 184, 91, 0.904);
+background-color:  rgb(223, 199, 168);
 }
 .logo-image-style{
   height: 50px;
@@ -11,4 +11,11 @@ background-color: rgba(255, 184, 91, 0.904);
 }
 .logo-text-style{
   margin: -21px 0px 0px 50px;
+}
+main{
+  min-height: 82vh;
+}
+Footer{
+  background-color: rgb(223, 199, 168);
+  padding: 10px;
 }
